@@ -11,7 +11,7 @@
 # QA
 
 * Q: Do you take game suggestions/requests
-  A: Yeah I do lmao :P
+-  A: Yeah I do lmao :P
 
 * Q: Will you ever open source your ports
-  A: Nope lmao
+-  A: Nope lmao
